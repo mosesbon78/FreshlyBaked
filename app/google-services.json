@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "37583531541",
+    "firebase_url": "https://freshly-baked-3ac3f-default-rtdb.firebaseio.com",
+    "project_id": "freshly-baked-3ac3f",
+    "storage_bucket": "freshly-baked-3ac3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37583531541:android:09fac3846e4f45fb60e81c",
+        "android_client_info": {
+          "package_name": "com.example.freshlybaked"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdthkkw2AebaX88ZBkKMYXVB0U8vcKdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
